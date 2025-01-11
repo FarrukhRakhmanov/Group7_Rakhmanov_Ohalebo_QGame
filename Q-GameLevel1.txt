@@ -1,0 +1,6 @@
+5;5
+Wall;RedDoor;Wall;Wall;Wall;
+BlueDoor;GreenBox;;RedBox;Wall;
+Wall;;;;Wall;
+Wall;;;BlueBox;Wall;
+Wall;Wall;Wall;GreenDoor;Wall;
